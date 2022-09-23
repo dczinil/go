@@ -1,0 +1,4 @@
+src/avar_oper/main/
+src/pkg/*
+pkg/*
+bin/*
